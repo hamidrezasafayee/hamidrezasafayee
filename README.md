@@ -1,3 +1,3 @@
-- 👋 Hi, I’m hamidreza safayee
-- 👀 I’m interested in PHP,Laravel
-- 🌱 I’m currently learning PHP
+- 👋 Hi, I’m Hamidreza Safayee
+- 💻 I’m PHP and Laravel Developer
+- 🌱 I’m currently learning Js
