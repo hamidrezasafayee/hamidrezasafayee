@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Hamidreza Safayee
 - 💻 I’m PHP and Laravel Developer
-- 🌱 I’m currently learning Js
